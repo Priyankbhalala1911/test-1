@@ -1,0 +1,1 @@
+console.log("aje sikhi ne j jashu pakku")

@@ -1,0 +1,1 @@
+console.log("paku alte pakku j")
